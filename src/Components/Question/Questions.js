@@ -2,8 +2,6 @@ import React, { useState } from 'react'
 import ErrorMessage from '../ErrorMessage/Error'
 import './Question.css'
 import Button from '@mui/material/Button'
-import { useNavigate } from 'react-router-dom';
-import Progress from '../Progress-bar/ProgressBar';
 
 
 const Question = ({

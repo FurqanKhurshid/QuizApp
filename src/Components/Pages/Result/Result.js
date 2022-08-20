@@ -17,6 +17,8 @@ const Result = ({name,score,questions,difficulty,category}) => {
 
    const onClick = () =>{
     history('/')
+    window.location.reload();
+
    }
    var FilteredQues = questions.filter(i => i.difficulty == difficulty && i.category == category)
    var totalPer = Math.round((score / FilteredQues.length) * 100);

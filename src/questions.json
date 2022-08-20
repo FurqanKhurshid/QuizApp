@@ -23,30 +23,7 @@
       "Homo%20Neanderthalensis"
     ]
   },
-  {
-    "category": "Animals",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "What%20is%20the%20scientific%20name%20for%20modern%20day%20humans%3F",
-    "correct_answer": "Homo%20Sapiens",
-    "incorrect_answers": [
-      "Homo%20Ergaster",
-      "Homo%20Erectus",
-      "Homo%20Neanderthalensis"
-    ]
-  },
-  {
-    "category": "Animals",
-    "type": "multiple",
-    "difficulty": "easy",
-    "question": "What%20is%20the%20scientific%20name%20for%20modern%20day%20humans%3F",
-    "correct_answer": "Homo%20Sapiens",
-    "incorrect_answers": [
-      "Homo%20Ergaster",
-      "Homo%20Erectus",
-      "Homo%20Neanderthalensis"
-    ]
-  },
+  
   {
     "category": "Entertainment%3A%20Books",
     "type": "multiple",

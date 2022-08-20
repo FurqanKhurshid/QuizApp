@@ -97,11 +97,12 @@ const Quiz = ({ difficulty, name, score, setscore, category, questions, setQuest
         }
     }
 
-    const handleQuit = () => {
+    const handleQuit = (e) => {
         setCurrQues(0);
         setQuestions();
         history('/')
-        
+        window.location.reload();
+
     };
 
     return (
